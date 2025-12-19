@@ -1,6 +1,6 @@
 # Wang Beichen (王北辰)
 
-📍 **Beijing, China** | 📧 wbc23@mails.tsinghua.edu.cn | 📞 +86 15857730120
+📍 **Beijing, China** | 📧 wbc23@mails.tsinghua.edu.cn
 
 > **Master's Student in Pure Mathematics @ Tsinghua University**
 > 
@@ -17,7 +17,6 @@
 
 ### **Ningbo University (宁波大学)**
 **B.S. in Mathematics and Applied Mathematics** | *Sept 2019 – June 2023*
-* **GPA:** 88.11/100
 
 ---
 
